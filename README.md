@@ -22,3 +22,4 @@ Diferente de sistemas comuns que misturam tudo, este software foi planejado em b
 
 *   **Python 3** (Controle das perguntas, conversas e lógica do sistema)
 *   **SQLite3** (O banco de dados que guarda todas as contas com segurança)
+ 
